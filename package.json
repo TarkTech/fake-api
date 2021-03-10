@@ -1,0 +1,20 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "localtunnel": "^2.0.1",
+    "npm-run-parallel": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "start:tunnel": "lt --port 3000",
+    "start:withTunnel": "npm-run-parallel start start:tunnel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,276 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "L1"
+    },
+    {
+      "id": 2,
+      "name": "L2"
+    },
+    {
+      "id": 3,
+      "name": "L3"
+    },
+    {
+      "id": 4,
+      "name": "L4"
+    },
+    {
+      "id": 5,
+      "name": "L5"
+    }
+  ],
+  "parking": [
+    {
+      "id": 101,
+      "state": "vacant",
+      "levelId": 1
+    },
+    {
+      "id": 102,
+      "state": "occupied",
+      "levelId": 1
+    },
+    {
+      "id": 103,
+      "state": "vacant",
+      "levelId": 1
+    },
+    {
+      "id": 104,
+      "state": "occupied",
+      "levelId": 1
+    },
+    {
+      "id": 105,
+      "state": "vacant",
+      "levelId": 1
+    },
+    {
+      "id": 106,
+      "state": "allotted",
+      "levelId": 1
+    },
+    {
+      "id": 107,
+      "state": "occupied",
+      "levelId": 1
+    },
+    {
+      "id": 108,
+      "state": "vacant",
+      "levelId": 1
+    },
+    {
+      "id": 109,
+      "state": "allotted",
+      "levelId": 1
+    },
+    {
+      "id": 110,
+      "state": "vacant",
+      "levelId": 1
+    },
+    {
+      "id": 201,
+      "state": "vacant",
+      "levelId": 2
+    },
+    {
+      "id": 202,
+      "state": "occupied",
+      "levelId": 2
+    },
+    {
+      "id": 203,
+      "state": "occupied",
+      "levelId": 2
+    },
+    {
+      "id": 204,
+      "state": "allotted",
+      "levelId": 2
+    },
+    {
+      "id": 205,
+      "state": "vacant",
+      "levelId": 2
+    },
+    {
+      "id": 206,
+      "state": "allotted",
+      "levelId": 2
+    },
+    {
+      "id": 207,
+      "state": "vacant",
+      "levelId": 2
+    },
+    {
+      "id": 208,
+      "state": "vacant",
+      "levelId": 2
+    },
+    {
+      "id": 209,
+      "state": "occupied",
+      "levelId": 2
+    },
+    {
+      "id": 210,
+      "state": "vacant",
+      "levelId": 2
+    },
+    {
+      "id": 301,
+      "state": "vacant",
+      "levelId": 3
+    },
+    {
+      "id": 302,
+      "state": "occupied",
+      "levelId": 3
+    },
+    {
+      "id": 303,
+      "state": "allotted",
+      "levelId": 3
+    },
+    {
+      "id": 304,
+      "state": "occupied",
+      "levelId": 3
+    },
+    {
+      "id": 305,
+      "state": "vacant",
+      "levelId": 3
+    },
+    {
+      "id": 306,
+      "state": "vacant",
+      "levelId": 3
+    },
+    {
+      "id": 307,
+      "state": "occupied",
+      "levelId": 3
+    },
+    {
+      "id": 308,
+      "state": "vacant",
+      "levelId": 3
+    },
+    {
+      "id": 309,
+      "state": "allotted",
+      "levelId": 3
+    },
+    {
+      "id": 310,
+      "state": "vacant",
+      "levelId": 3
+    },
+    {
+      "id": 401,
+      "state": "vacant",
+      "levelId": 4
+    },
+    {
+      "id": 402,
+      "state": "allotted",
+      "levelId": 4
+    },
+    {
+      "id": 403,
+      "state": "vacant",
+      "levelId": 4
+    },
+    {
+      "id": 404,
+      "state": "occupied",
+      "levelId": 4
+    },
+    {
+      "id": 405,
+      "state": "vacant",
+      "levelId": 4
+    },
+    {
+      "id": 406,
+      "state": "allotted",
+      "levelId": 4
+    },
+    {
+      "id": 407,
+      "state": "vacant",
+      "levelId": 4
+    },
+    {
+      "id": 408,
+      "state": "occupied",
+      "levelId": 4
+    },
+    {
+      "id": 409,
+      "state": "allotted",
+      "levelId": 4
+    },
+    {
+      "id": 410,
+      "state": "vacant",
+      "levelId": 4
+    },
+    {
+      "id": 501,
+      "state": "vacant",
+      "levelId": 5
+    },
+    {
+      "id": 502,
+      "state": "occupied",
+      "levelId": 5
+    },
+    {
+      "id": 503,
+      "state": "vacant",
+      "levelId": 5
+    },
+    {
+      "id": 504,
+      "state": "occupied",
+      "levelId": 5
+    },
+    {
+      "id": 505,
+      "state": "vacant",
+      "levelId": 5
+    },
+    {
+      "id": 506,
+      "state": "allotted",
+      "levelId": 5
+    },
+    {
+      "id": 507,
+      "state": "vacant",
+      "levelId": 5
+    },
+    {
+      "id": 508,
+      "state": "vacant",
+      "levelId": 5
+    },
+    {
+      "id": 509,
+      "state": "occupied",
+      "levelId": 5
+    },
+    {
+      "id": 510,
+      "state": "allotted",
+      "levelId": 5
+    }
+  ]
+}
